@@ -1,0 +1,54 @@
+T1	Protein 0 4	IL-6
+T2	Protein 14 19	STAT3
+T3	Protein 54 59	IL-10
+T4	Protein 77 80	CD4
+T5	Protein 90 95	STAT3
+T6	Protein 184 188	IL-6
+T7	Protein 190 195	IL-11
+T8	Protein 197 223	leukemia inhibitory factor
+T9	Protein 229 241	oncostatin M
+T10	Protein 244 274	platelet-derived growth factor
+T11	Protein 280 303	epidermal growth factor
+T12	Protein 320 325	IL-10
+T13	Protein 375 379	IL-6
+T14	Protein 461 466	STAT3
+T15	Protein 500 504	IL-6
+T16	Protein 635 638	CD4
+T17	Protein 674 678	IL-6
+T18	Protein 740 745	STAT3
+T19	Protein 775 780	IL-10
+T20	Protein 811 816	STAT1
+T21	Protein 821 826	STAT3
+T22	Protein 860 864	IL-6
+T23	Protein 875 878	CD4
+T24	Protein 958 961	CD4
+T25	Protein 1089 1093	IL-6
+T26	Protein 1244 1249	STAT3
+T27	Protein 1258 1263	STAT1
+T28	Protein 1274 1279	STAT3
+T29	Protein 1333 1337	IL-6
+T30	Protein 1386 1390	IL-6
+T31	Protein 1407 1412	STAT3
+T32	Protein 1484 1489	STAT1
+T33	Protein 1557 1561	IL-6
+T34	Protein 1582 1587	STAT1
+T35	Protein 1616 1621	STAT3
+T36	Protein 1656 1661	STAT1
+T37	Protein 1725 1729	IL-6
+T38	Protein 1759 1764	IL-10
+T39	Protein 1776 1785	IFN-gamma
+T40	Protein 1800 1803	CD4
+T41	Protein 1859 1863	IL-6
+T42	Protein 1885 1888	CD4
+T43	Protein 1925 1929	CD28
+T44	Protein 1982 1987	IL-10
+T45	Protein 2010 2019	IFN-gamma
+T46	Protein 2054 2058	IL-6
+T47	Protein 2096 2101	IL-10
+T48	Protein 2125 2134	IFN-gamma
+T49	Protein 2196 2200	IL-6
+T50	Protein 2241 2246	IL-10
+T51	Protein 2321 2325	IL-6
+T52	Protein 2367 2372	STAT3
+T53	Protein 2431 2436	IL-10
+T54	Protein 2443 2446	CD4

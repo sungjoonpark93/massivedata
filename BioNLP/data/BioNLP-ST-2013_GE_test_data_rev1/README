@@ -1,0 +1,54 @@
+BioNLP Shared Task 2013 GE Task data set for testing
+
+
+- Contains the followings
+  - 14 full paper acticles from PubMed Central, and
+  - protein annotation produced by DBCLS.
+
+- For license information, please refer to the file, LICENSE.
+
+- For the task details, please refer to the task homepage.
+  http://bionlp-st.dbcls.jp/GE/
+
+
+FILE DESCRIPTIONS
+
+*.txt	files contain the target text.
+
+*.a1	files contain standoff annotations for proteins.
+
+*.json	files contain both text and annotations in JSON.
+        The content of one JSON file is equivalent to that of
+        corresponding txt, and a1 files.
+
+
+HISTORY
+
+- revision 1 (April 9, 2013)
+	: erroneous protein annotations fixed in the following files:
+		PMC-1359074-00-TIAB.a1
+		PMC-2817507-04-2._Methods.a1
+		PMC-2817507-05-2._Methods.a1
+		PMC-2817507-06-2._Methods.a1
+		PMC-2817507-07-2._Methods.a1
+		PMC-2817507-09-3._Results.a1
+		PMC-2817507-10-3._Results.a1
+		PMC-2817507-11-3._Results.a1
+		PMC-2817507-12-3._Results.a1
+		PMC-3317373-06-2._Methods_and_Materials.a1
+		PMC-3317373-07-2._Methods_and_Materials.a1
+		PMC-3317373-08-2._Methods_and_Materials.a1
+		PMC-3317373-09-2._Methods_and_Materials.a1
+		PMC-3317373-13-3._Results.a1
+		PMC-3317373-14-3._Results.a1
+
+- initial release (April 8, 2013)
+
+
+REFERENCES
+
+- PubMed Central: http://www.ncbi.nlm.nih.gov/pmc/
+- BioNLP Shared Task 2013: https://2013.bionlp-st.org/
+- BioNLP Shared Task GE Task: https://bionlp-st.dbcls.jp/GE/
+- Database Center for Life Science: http://dbcls.rois.ac.jp/
+- JSON: http://www.json.org/

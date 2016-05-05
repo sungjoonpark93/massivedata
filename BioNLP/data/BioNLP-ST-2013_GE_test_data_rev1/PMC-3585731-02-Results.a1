@@ -1,0 +1,29 @@
+T1	Protein 0 30	Basic Fibroblast Growth Factor
+T2	Protein 183 191	TNFalpha
+T3	Protein 231 240	caspase-8
+T4	Protein 702 711	caspase-8
+T5	Protein 716 720	FADD
+T6	Protein 1126 1135	caspase-8
+T7	Protein 1176 1180	RIP1
+T8	Protein 1196 1215	RIP1 deubiquitinase
+T9	Protein 1216 1220	CYLD
+T10	Protein 1441 1445	bFGF
+T11	Protein 1635 1639	bFGF
+T12	Protein 1644 1649	IGF-1
+T13	Protein 1659 1662	EGF
+T14	Protein 1796 1800	bFGF
+T15	Protein 1857 1865	TNFalpha
+T16	Protein 1997 2005	TNFalpha
+T17	Protein 2159 2163	RIP1
+T18	Protein 2458 2466	TNFalpha
+T19	Protein 2563 2567	RIP1
+T20	Protein 2709 2713	RIP1
+T21	Protein 2848 2856	TNFalpha
+T22	Protein 2906 2910	bFGF
+T23	Protein 2951 2955	RIP1
+T24	Protein 3077 3081	bFGF
+T25	Protein 3179 3208	bFGF receptor tyrosine kinase
+T26	Protein 3279 3283	bFGF
+T27	Protein 3404 3417	bFGF receptor
+T28	Protein 3450 3458	TNFalpha
+T29	Protein 3656 3660	bFGF

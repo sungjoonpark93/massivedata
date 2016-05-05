@@ -1,0 +1,34 @@
+T1	Protein 35 39	CD40
+T2	Protein 44 48	RANK
+T3	Protein 118 143	NF-kappaB inducing kinase
+T4	Protein 145 148	NIK
+T5	Protein 191 194	NIK
+T6	Protein 248 253	TRAF2
+T7	Protein 255 260	TRAF3
+T8	Protein 265 270	cIAP1
+T9	Protein 271 272	2
+T10	Protein 357 360	NIK
+T11	Protein 370 373	NIK
+T12	Protein 407 412	TRAF3
+T13	Protein 449 454	TRAF2
+T14	Protein 511 516	cIAP1
+T15	Protein 517 518	2
+T16	Protein 564 569	cIAP1
+T17	Protein 570 571	2
+T18	Protein 617 622	TRAF3
+T19	Protein 636 639	NIK
+T20	Protein 654 659	TRAF3
+T21	Protein 676 679	NIK
+T22	Protein 718 721	NIK
+T23	Protein 742 745	NIK
+T24	Protein 780 784	IKK1
+T25	Protein 811 815	p100
+T26	Protein 922 926	p100
+T27	Protein 930 933	p52
+T28	Protein 966 970	RelB
+T29	Protein 1006 1011	TRAF3
+T30	Protein 1013 1018	TRAF1
+T31	Protein 1236 1240	RANK
+T32	Protein 1242 1273	receptor activator of NF-kappaB
+T33	Protein 1313 1316	TNF
+T34	Protein 1318 1340	tumour necrosis factor

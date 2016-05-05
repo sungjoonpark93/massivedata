@@ -1,0 +1,47 @@
+T1	Protein 249 279	chemokine (C-C motif) ligand 5
+T2	Protein 281 285	CCL5
+T3	Protein 291 313	C-C chemokine receptor
+T4	Protein 315 319	CCR5
+T5	Protein 493 497	CCR5
+T6	Protein 729 733	CCL5
+T7	Protein 849 853	CCR5
+T8	Protein 994 998	CCR5
+T9	Protein 1047 1051	CCR5
+T10	Protein 1254 1258	CCR5
+T11	Protein 1372 1376	CCR5
+T12	Protein 1433 1466	Interleukin-1 receptor antagonist
+T13	Protein 1468 1474	IL-1Ra
+T14	Protein 1531 1539	cytokine
+T15	Protein 1598 1604	IL-1Ra
+T16	Protein 1782 1788	IL-1Ra
+T17	Protein 1817 1823	IL-1Ra
+T18	Protein 1937 1943	IL-1Ra
+T19	Protein 2100 2106	IL-1Ra
+T20	Protein 2261 2267	IL-1Ra
+T21	Protein 2518 2524	IL-1Ra
+T22	Protein 2696 2702	IL-1Ra
+T23	Protein 2746 2754	cytokine
+T35	Protein 3307 3312	c-Rel
+T36	Protein 3346 3351	c-Rel
+T37	Protein 3369 3373	IL-2
+T38	Protein 3375 3379	IL-3
+T39	Protein 3381 3387	GM-CSF
+T40	Protein 4135 4139	CCR5
+T41	Protein 4196 4200	CCL5
+T42	Protein 4332 4336	CCR5
+T43	Protein 4488 4497	IL-1alpha
+T44	Protein 4499 4503	IL-6
+T45	Protein 4505 4511	GM-CSF
+T46	Protein 4517 4519	KC
+T47	Protein 4549 4555	IL-1Ra
+T48	Protein 4659 4665	IL-1Ra
+T49	Protein 4761 4767	IL-1Ra
+T50	Protein 4882 4886	PU.1
+T51	Protein 4961 4964	p65
+T52	Protein 5010 5016	IL-1Ra
+T53	Protein 5074 5094	Intracellular IL-1Ra
+T54	Protein 5096 5104	icIL-1Ra
+T55	Protein 5329 5335	IL-1Ra
+T56	Protein 5514 5520	IL-1Ra
+T57	Protein 5528 5546	chemokine receptor
+T58	Protein 5547 5551	CCR5

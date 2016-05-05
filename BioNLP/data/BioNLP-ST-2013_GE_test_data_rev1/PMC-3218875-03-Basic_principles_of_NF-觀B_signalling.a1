@@ -1,0 +1,111 @@
+T1	Protein 255 267	IkappaBalpha
+T2	Protein 269 280	IkappaBbeta
+T3	Protein 282 296	IkappaBepsilon
+T4	Protein 298 302	p105
+T5	Protein 318 328	NF-kappaB1
+T6	Protein 331 335	p100
+T7	Protein 351 361	NF-kappaB2
+T8	Protein 398 407	IkappaBxi
+T9	Protein 412 417	Bcl-3
+T10	Protein 479 483	p100
+T11	Protein 488 492	p105
+T12	Protein 515 518	p52
+T13	Protein 523 526	p50
+T14	Protein 866 869	TNF
+T15	Protein 888 893	RANKL
+T16	Protein 1345 1349	IKK1
+T17	Protein 1354 1358	IKK2
+T18	Protein 1374 1382	IKKalpha
+T19	Protein 1387 1394	IKKbeta
+T20	Protein 1423 1452	NF-kappaB essential modulator
+T21	Protein 1454 1458	NEMO
+T22	Protein 1475 1483	IKKgamma
+T23	Protein 1536 1540	IKK2
+T24	Protein 1545 1549	NEMO
+T25	Protein 1559 1563	IKK1
+T26	Protein 1680 1683	TNF
+T27	Protein 1693 1696	TNF
+T28	Protein 1739 1777	TNF receptor-1-associated death domain
+T29	Protein 1779 1784	TRADD
+T30	Protein 1801 1831	receptor interacting protein 1
+T31	Protein 1833 1837	RIP1
+T32	Protein 1904 1943	TNF receptor-associated factor (TRAF) 2
+T33	Protein 1948 1953	TRAF5
+T34	Protein 1999 2039	cellular inhibitor of apoptosis (cIAP) 1
+T35	Protein 2044 2049	cIAP2
+T36	Protein 2065 2068	TNF
+T37	Protein 2101 2105	RIP1
+T38	Protein 2162 2167	TRAF2
+T39	Protein 2168 2169	5
+T40	Protein 2174 2179	cIAP1
+T41	Protein 2180 2181	2
+T42	Protein 2206 2210	RIP1
+T43	Protein 2303 2307	RIP1
+T44	Protein 2365 2369	TAK1
+T45	Protein 2413 2417	NEMO
+T46	Protein 2422 2426	TAB1
+T47	Protein 2427 2428	2
+T48	Protein 2519 2523	NEMO
+T49	Protein 2578 2581	TNF
+T50	Protein 2808 2812	TAK1
+T67	Protein 2896 2900	TLR4
+T68	Protein 2962 2996	Toll/IL-1 receptor adaptor protein
+T69	Protein 3018 3020	Ma
+T70	Protein 3027 3056	TRIF-related adaptor molecule
+T71	Protein 3058 3062	TRAM
+T72	Protein 3122 3170	myeloid differentiation primary response gene 88
+T73	Protein 3172 3177	MyD88
+T74	Protein 3183 3229	TIR domain-containing adaptor-inducing IFNbeta
+T75	Protein 3231 3235	TRIF
+T76	Protein 3252 3257	MyD88
+T77	Protein 3332 3337	TRAF6
+T78	Protein 3392 3397	TRAF6
+T79	Protein 3404 3408	TRIF
+T80	Protein 3423 3428	TRAF6
+T81	Protein 3438 3442	RIP1
+T82	Protein 3502 3506	TAK1
+T83	Protein 3567 3570	TNF
+T84	Protein 3650 3675	lymphotoxin beta receptor
+T85	Protein 3677 3690	BAFF receptor
+T86	Protein 3692 3696	CD40
+T87	Protein 3702 3706	RANK
+T88	Protein 3736 3740	p100
+T89	Protein 3775 3778	p52
+T90	Protein 3804 3808	RelB
+T91	Protein 4027 4031	IKK1
+T92	Protein 4076 4101	NF-kappaB inducing kinase
+T93	Protein 4103 4106	NIK
+T94	Protein 4109 4112	NIK
+T95	Protein 4254 4257	NIK
+T96	Protein 4295 4300	TRAF2
+T97	Protein 4302 4307	TRAF3
+T98	Protein 4313 4318	cIAP1
+T99	Protein 4319 4320	2
+T100	Protein 4350 4353	NIK
+T101	Protein 4464 4469	TRAF3
+T102	Protein 4542 4547	TRAF2
+T103	Protein 4552 4557	cIAP1
+T104	Protein 4558 4559	2
+T105	Protein 4596 4601	TRAF3
+T106	Protein 4649 4652	NIK
+T107	Protein 4701 4704	NIK
+T108	Protein 4722 4726	IKK1
+T109	Protein 4791 4795	CD40
+T110	Protein 4797 4822	lymphotoxin beta receptor
+T111	Protein 4827 4831	RANK
+T112	Protein 4951 4955	CD40
+T113	Protein 4960 4964	RANK
+T114	Protein 5011 5016	TRAF1
+T115	Protein 5018 5023	TRAF2
+T116	Protein 5025 5030	TRAF3
+T117	Protein 5032 5037	TRAF5
+T118	Protein 5043 5048	TRAF6
+T119	Protein 5092 5097	TRAF2
+T120	Protein 5102 5107	TRAF3
+T121	Protein 5279 5283	CD40
+T122	Protein 5328 5333	TRAF6
+T123	Protein 5350 5354	CD40
+T124	Protein 5383 5387	IL-6
+T125	Protein 5406 5411	TRAF2
+T126	Protein 5457 5462	TRAF3
+T127	Protein 5497 5501	CD40

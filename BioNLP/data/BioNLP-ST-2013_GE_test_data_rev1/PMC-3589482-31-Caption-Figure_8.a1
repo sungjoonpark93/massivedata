@@ -1,0 +1,26 @@
+T1	Protein 0 10	C/EBP-beta
+T2	Protein 28 36	SerpinB2
+T3	Protein 73 81	SerpinB2
+T4	Protein 145 150	Cebpb
+T5	Protein 170 175	Cebpb
+T6	Protein 192 200	SerpinB2
+T7	Protein 236 241	Cebpb
+T8	Protein 249 254	Cebpb
+T9	Protein 288 325	SerpinB2 promoter-luciferase reporter
+T10	Protein 418 455	SerpinB2 promoter-luciferase reporter
+T11	Protein 460 487	beta-galactosidase reporter
+T12	Protein 502 512	luciferase
+T13	Protein 533 551	beta-galactosidase
+T14	Protein 566 576	C/EBP-beta
+T15	Protein 668 678	C/EBP-beta
+T16	Protein 728 736	SerpinB2
+T17	Protein 756 761	Cebpb
+T18	Protein 834 844	C/EBP-beta
+T19	Protein 862 897	C/EBP-beta phospho-acceptor mutants
+T20	Protein 924 961	SerpinB2 promoter-luciferase reporter
+T21	Protein 966 993	beta-galactosidase reporter
+T22	Protein 1039 1049	Luciferase
+T23	Protein 1092 1110	beta-galactosidase
+T24	Protein 1199 1234	C/EBP-beta phospho-acceptor mutants
+T25	Protein 1240 1255	C/EBP-betaT217A
+T26	Protein 1321 1331	C/EBP-beta

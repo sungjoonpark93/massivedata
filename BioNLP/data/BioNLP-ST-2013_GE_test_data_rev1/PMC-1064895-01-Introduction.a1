@@ -1,0 +1,33 @@
+T1	Protein 307 340	tumor necrosis factor (TNF)-alpha
+T2	Protein 346 364	interleukin (IL)-1
+T3	Protein 783 787	IL-2
+T4	Protein 792 808	interferon-gamma
+T5	Protein 884 888	IL-1
+T6	Protein 890 894	IL-6
+T7	Protein 896 901	IL-15
+T8	Protein 903 908	IL-18
+T9	Protein 913 922	TNF-alpha
+T10	Protein 1292 1297	IL-17
+T11	Protein 1390 1394	IL-6
+T12	Protein 1399 1403	IL-8
+T13	Protein 1496 1505	TNF-alpha
+T14	Protein 1510 1514	IL-1
+T15	Protein 1516 1521	IL-17
+T16	Protein 1631 1636	IL-17
+T17	Protein 1704 1709	RANKL
+T18	Protein 1711 1773	receptor activator of nuclear factor kappaB [NF-kappaB] ligand
+T19	Protein 1858 1862	IL-6
+T20	Protein 1867 1893	leukemia inhibitory factor
+T21	Protein 2057 2062	IL-17
+T22	Protein 2194 2197	CD4
+T23	Protein 2232 2237	IL-15
+T24	Protein 2324 2329	IL-17
+T25	Protein 2491 2496	IL-23
+T26	Protein 2530 2535	IL-17
+T27	Protein 2557 2560	CD4
+T28	Protein 2566 2569	CD8
+T29	Protein 2614 2619	IL-17
+T30	Protein 2749 2754	IL-17
+T31	Protein 2845 2850	IL-17
+T32	Protein 3023 3026	Akt
+T33	Protein 3114 3119	IL-17

@@ -1,0 +1,19 @@
+T1	Protein 1028 1032	p100
+T2	Protein 1036 1046	NF-kappaB2
+T3	Protein 1048 1052	p105
+T4	Protein 1056 1066	NF-kappaB1
+T5	Protein 1068 1071	p65
+T6	Protein 1075 1079	RelA
+T7	Protein 1081 1085	RelB
+T8	Protein 1087 1092	c-Rel
+T9	Protein 1213 1216	TNF
+T10	Protein 1224 1228	IL-6
+T11	Protein 1230 1247	cyclo-oxygenase-2
+T12	Protein 1261 1292	inducible nitric oxide synthase
+T13	Protein 1364 1367	TNF
+T14	Protein 2007 2045	receptor activator of NF-kappaB ligand
+T15	Protein 2047 2052	RANKL
+T16	Protein 2301 2305	CD40
+T17	Protein 2307 2312	TRAF1
+T18	Protein 2314 2321	TNFAIP3
+T19	Protein 2327 2332	c-REL

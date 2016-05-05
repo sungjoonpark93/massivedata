@@ -1,0 +1,38 @@
+T1	Protein 132 135	env
+T2	Protein 256 259	env
+T3	Protein 352 355	env
+T4	Protein 383 386	env
+T5	Protein 415 418	env
+T6	Protein 481 484	env
+T7	Protein 531 534	env
+T8	Protein 610 613	env
+T9	Protein 694 699	NFAT5
+T10	Protein 755 758	p50
+T11	Protein 759 762	p65
+T12	Protein 827 833	DNaseI
+T13	Protein 966 969	env
+T14	Protein 990 993	env
+T15	Protein 1057 1060	p50
+T16	Protein 1061 1064	p65
+T17	Protein 1098 1103	NFAT5
+T18	Protein 1168 1175	DNase I
+T19	Protein 1217 1222	NFAT5
+T20	Protein 1355 1358	p50
+T21	Protein 1359 1362	p65
+T22	Protein 1385 1391	DNaseI
+T23	Protein 1467 1470	env
+T24	Protein 1488 1491	env
+T25	Protein 1519 1522	env
+T26	Protein 1555 1558	env
+T27	Protein 1631 1634	p50
+T28	Protein 1635 1638	p65
+T29	Protein 1705 1712	DNase I
+T30	Protein 1889 1894	NFAT5
+T31	Protein 1932 1938	DNaseI
+T32	Protein 2014 2017	env
+T33	Protein 2035 2038	env
+T34	Protein 2066 2069	env
+T35	Protein 2102 2105	env
+T36	Protein 2167 2172	NFAT5
+T37	Protein 2237 2244	DNase I
+T38	Protein 2284 2289	NFAT5

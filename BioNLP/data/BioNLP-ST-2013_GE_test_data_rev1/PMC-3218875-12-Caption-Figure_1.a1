@@ -1,0 +1,56 @@
+T1	Protein 113 118	TNFR1
+T2	Protein 120 124	CD40
+T3	Protein 126 130	RANK
+T4	Protein 136 140	TLR4
+T5	Protein 195 241	TNF receptor 1-associated death domain protein
+T6	Protein 243 248	TRADD
+T7	Protein 251 256	MyD88
+T8	Protein 258 261	MAL
+T9	Protein 263 309	TIR domain-containing adaptor-inducing IFNbeta
+T10	Protein 311 315	TRIF
+T11	Protein 328 332	RIP1
+T12	Protein 334 339	IRAK1
+T13	Protein 341 346	IRAK4
+T14	Protein 372 377	TRAF2
+T15	Protein 379 384	TRAF6
+T16	Protein 386 391	cIAP1
+T17	Protein 393 398	cIAP2
+T18	Protein 457 461	RIP1
+T19	Protein 466 471	IRAK1
+T20	Protein 490 494	NEMO
+T21	Protein 573 577	IKK2
+T22	Protein 582 586	TAK1
+T23	Protein 588 592	TAK1
+T24	Protein 627 631	IKK2
+T25	Protein 662 674	IkappaBalpha
+T26	Protein 800 803	p65
+T27	Protein 808 811	p50
+T28	Protein 879 884	TRAF1
+T29	Protein 1017 1020	A20
+T30	Protein 1025 1029	CYLD
+T31	Protein 1145 1149	RIP1
+T32	Protein 1154 1159	TRAF6
+T33	Protein 1247 1253	ABIN-1
+T34	Protein 1258 1261	p62
+T35	Protein 1348 1353	IRAK1
+T36	Protein 1358 1363	TRAF6
+T37	Protein 1440 1446	SIGIRR
+T38	Protein 1488 1492	TLR4
+T39	Protein 1508 1513	IRAK1
+T40	Protein 1518 1523	TRAF6
+T41	Protein 1689 1693	ABIN
+T42	Protein 1695 1729	A20-binding inhibitor of NF-kappaB
+T43	Protein 1770 1774	CYLD
+T44	Protein 1776 1791	cylindromatosis
+T45	Protein 1878 1883	MyD88
+T46	Protein 1885 1933	myeloid differentiation primary response gene 88
+T47	Protein 1935 1939	NEMO
+T48	Protein 1941 1970	NF-kappaB essential modulator
+T49	Protein 1992 1996	RANK
+T50	Protein 1998 2029	receptor activator of NF-kappaB
+T51	Protein 2031 2035	RIP1
+T52	Protein 2037 2067	receptor interacting protein 1
+T53	Protein 2069 2075	SIGIRR
+T54	Protein 2077 2119	single-immunoglobulinIL-1 receptor-related
+T55	Protein 2215 2218	TNF
+T56	Protein 2220 2242	tumour necrosis factor

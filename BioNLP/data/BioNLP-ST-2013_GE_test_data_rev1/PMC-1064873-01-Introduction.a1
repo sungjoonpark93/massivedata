@@ -1,0 +1,75 @@
+T1	Protein 1 5	L-10
+T2	Protein 141 146	IL-10
+T3	Protein 160 174	IL-10 receptor
+T4	Protein 176 182	IL-10R
+T5	Protein 263 276	type 1 IL-10R
+T6	Protein 278 285	IL-10R1
+T7	Protein 315 328	type 2 IL-10R
+T8	Protein 353 358	IL-10
+T9	Protein 363 369	IL-10R
+T10	Protein 425 429	Jak1
+T11	Protein 434 438	Tyk2
+T12	Protein 481 488	IL-10R1
+T13	Protein 493 506	type 2 IL-10R
+T14	Protein 526 531	IL-10
+T15	Protein 618 675	signal transducer and activator of transcription (STAT) 3
+T16	Protein 680 685	STAT1
+T17	Protein 713 718	STAT1
+T18	Protein 723 728	STAT3
+T19	Protein 856 861	STAT3
+T20	Protein 888 893	IL-10
+T21	Protein 924 928	IL-6
+T22	Protein 998 1003	STAT3
+T23	Protein 1035 1040	STAT3
+T24	Protein 1069 1074	IL-10
+T25	Protein 1171 1175	IL-6
+T26	Protein 1549 1554	SOCS3
+T27	Protein 1610 1615	IL-10
+T28	Protein 1620 1624	IL-6
+T29	Protein 1651 1656	STAT3
+T30	Protein 1679 1683	IL-6
+T31	Protein 1708 1713	IL-10
+T32	Protein 2114 2141	Tumor necrosis factor alpha
+T33	Protein 2143 2152	TNF-alpha
+T34	Protein 2158 2162	IL-1
+T35	Protein 2446 2450	IL-6
+T36	Protein 2456 2476	pleiotropic cytokine
+T37	Protein 2825 2830	IL-10
+T38	Protein 3123 3128	IL-10
+T39	Protein 3218 3223	IL-10
+T40	Protein 3320 3329	TNF-alpha
+T41	Protein 3334 3338	IL-1
+T42	Protein 3396 3403	IL-10R1
+T43	Protein 3474 3483	TNF-alpha
+T44	Protein 3485 3489	IL-1
+T45	Protein 3495 3543	granulocyte-macrophage colony-stimulating factor
+T46	Protein 3550 3553	CD4
+T47	Protein 3627 3631	CD28
+T48	Protein 3780 3793	HLA-DRB1*0404
+T49	Protein 3798 3811	HLA-DRB1*0401
+T50	Protein 3930 3934	CD28
+T51	Protein 3944 3948	CD80
+T52	Protein 3953 3957	CD86
+T53	Protein 4025 4028	CD4
+T54	Protein 4206 4210	CD69
+T55	Protein 4215 4219	CD11
+T56	Protein 4285 4301	interferon gamma
+T57	Protein 4302 4313	(IFN)-gamma
+T58	Protein 4318 4323	IL-17
+T59	Protein 4346 4349	CD4
+T60	Protein 4647 4696	cytotoxic T-cell-associated antigen 4 (CD152)-IgG
+T61	Protein 4732 4736	CD28
+T62	Protein 4762 4766	CD80
+T63	Protein 4771 4775	CD86
+T64	Protein 4800 4805	IL-10
+T65	Protein 4889 4893	CD28
+T66	Protein 5031 5034	CD4
+T67	Protein 5111 5120	IFN-gamma
+T68	Protein 5135 5139	CD28
+T69	Protein 5173 5178	IL-10
+T70	Protein 5197 5202	STAT1
+T71	Protein 5207 5212	STAT3
+T72	Protein 5232 5237	IL-10
+T73	Protein 5261 5266	SOCS1
+T74	Protein 5271 5276	SOCS3
+T75	Protein 5307 5310	CD4
